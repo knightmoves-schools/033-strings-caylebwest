@@ -1,6 +1,6 @@
 let firstName = "Name";
 let jobTitle = "Job";
-let city = "City";
+let city = "city";
 
 let newJobPost = '${firstName} is ${jobTitle} at ${city}!';
 
